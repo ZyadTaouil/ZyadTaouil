@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zyad</h1>
-<h3 align="center">Master Student at University Paris 1 Panthéon-Sorbonne | Computer Science applied to Business Management student</h3>
+<h3 align="center">Master Student at the University Paris 1 Panthéon-Sorbonne | Computer Science applied to Business Management student</h3>
 
 I am passionate about New Information Technologies. My ambition is to make a career in the design and development of Business Intelligence, Machine Learning and Data Engineering solutions. I am open to work on any project as internship or freelance.
 
