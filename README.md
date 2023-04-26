@@ -19,7 +19,5 @@ I am passionate about New Information Technologies. My ambition is to make a car
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyadtaouil&show_icons=true&locale=en&layout=compact" alt="zyadtaouil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyadtaouil&show_icons=true&locale=en" alt="zyadtaouil" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyadtaouil&" alt="zyadtaouil" /></p>
 
