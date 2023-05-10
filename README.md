@@ -3,7 +3,7 @@
 
 I am passionate about New Information Technologies. My ambition is to make a career in the design and development of Business Intelligence, Machine Learning and Data Engineering solutions. I am open to work on any project as internship or freelance.
 
-- 🔭 I’m currently working on a **Flask Project**
+- 🔭 I’m currently working on a **PHP Project**
 
 - 🌱 I’m currently learning **artificial intelligence and advanced web programming**
 
